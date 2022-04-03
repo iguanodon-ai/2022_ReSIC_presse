@@ -4,7 +4,7 @@
 
 ## Description
 
-Ce repository contient le code créé dans le cadre d'une mission de nettoyage et formattage d'un corpus de retranscription de presse (TV et presse écrite) en Belgique francophone et néerlandophone. 
+Ce repository contient le code créé dans le cadre d'une mission de nettoyage et formattage d'un corpus de retranscriptions de presse (TV et presse écrite) en Belgique francophone et néerlandophone. 
 
 
 ## But
