@@ -11,7 +11,7 @@ Ce repository contient le code créé dans le cadre d'une mission de nettoyage e
 
 Transformer plusieurs fichiers (`.txt`, `.docx`) de médias différents (VRT, RTBF, RTL-TVI, VTM, De Standaard, Het Laatste Nieuws, Le Soir, La Dernière Heure) contenant des retranscriptions d'articles en deux fichiers distincts : l'un pour le français, l'autre pour le néerlandais. 
 
-Ces fichier doivent contenir différentes métadonnées par article : le genre (TV ou journal), la date (en différentes granularités), le média, et un identifiant unique. Ces métadonnées doivent pouvoir être lues par les logiciels [Hyperbase](http://hyperbase.unice.fr/hyperbase/) et [TXM](https://txm.gitpages.huma-num.fr/textometrie/Pr%C3%A9sentation/). 
+Ces fichiers doivent contenir différentes métadonnées par article : le genre (TV ou journal), la date (en différentes granularités), le média, et un identifiant unique. Ces métadonnées doivent pouvoir être lues par les logiciels [Hyperbase](http://hyperbase.unice.fr/hyperbase/) et [TXM](https://txm.gitpages.huma-num.fr/textometrie/Pr%C3%A9sentation/). 
 
 ## Étapes d'utilisation du code dans ce repository
 
